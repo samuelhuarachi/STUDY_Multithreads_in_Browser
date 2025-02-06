@@ -1,0 +1,23 @@
+{
+  "name": "study_multithreads_in_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelhuarachi/STUDY_Multithreads_in_Browser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelhuarachi/STUDY_Multithreads_in_Browser/issues"
+  },
+  "homepage": "https://github.com/samuelhuarachi/STUDY_Multithreads_in_Browser#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
